@@ -218,14 +218,6 @@ The simulator was designed with the following goals:
 
 ---
 
-# Technologies Used
-
-* **Java**
-* Standard Java libraries
-* Object-oriented design principles
-
----
-
 # Conclusion
 
 This project demonstrates the behaviour of classical CPU scheduling algorithms under different workload conditions.
